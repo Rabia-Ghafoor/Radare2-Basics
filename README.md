@@ -12,7 +12,7 @@ cd radare2
 
 ```bash
 r2 -v  # To verify
-
+```
 
 # For downloading a sample binary file:
 ```bash
