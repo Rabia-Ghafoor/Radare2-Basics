@@ -2,8 +2,10 @@
 # Commands I personally used for Installation on a Mac:
 git clone https://github.com/radareorg/radare2.git
 
-cd radare2
+cd radare2 
+
 ./sys/install.sh
+
 r2 -v  # To verify
 
 # For downloading a sample binary file:
