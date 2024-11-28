@@ -9,15 +9,19 @@ cd radare2
 ```bash
 ./sys/install.sh
 ```
+
 ```bash
 r2 -v  # To verify
-```
+
 
 # For downloading a sample binary file:
+```bash
 curl -O http://radare.org/get/intro-linux
-
+```
 # Alternatively, if you just want to use Docker:
+```bash
 docker run -ti radare/radare2
+```
 
 # Resources:
 Radare2 Book:
